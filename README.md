@@ -1,5 +1,5 @@
-# my_malloc
-Recoding the C malloc function which allocates the requested memory and returns a pointer to it
+# my_malloc on Linux
+Recoding the C malloc function which allocates the requested memory and returns a pointer to it.
 How it works:
 
 ```link
