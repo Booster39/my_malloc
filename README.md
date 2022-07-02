@@ -1,5 +1,10 @@
 # my_malloc
 Recoding the C malloc function which allocates the requested memory and returns a pointer to it
+How it works:
+
+```link
+https://en.cppreference.com/w/c/memory/malloc
+```
 
 # USAGE
 First, you have to get the owner rights of the exec.sh file. In order to do that, tap the following command your Command Line Interface:
