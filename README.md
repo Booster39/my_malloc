@@ -6,8 +6,16 @@ How it works:
 https://en.cppreference.com/w/c/memory/malloc
 ```
 
-# USAGE
+# Get it
+You can download the zip folder when pressing the green button or you can clone the repository in your pc by this commandin your CLI:
+
+```bash
+git clone 
+```
+
+# Usage
 First, you have to get the owner rights of the exec.sh file. In order to do that, tap the following command your Command Line Interface:
+
 ```bash
 chmod exec.sh 755
 ```
