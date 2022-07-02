@@ -10,7 +10,7 @@ https://en.cppreference.com/w/c/memory/malloc
 You can download the zip folder when pressing the green button or you can clone the repository in your pc by this commandin your CLI:
 
 ```bash
-git clone 
+git clone git@github.com:Booster39/my_malloc.git
 ```
 
 # Usage
