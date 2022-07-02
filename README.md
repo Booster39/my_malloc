@@ -3,7 +3,9 @@ Recoding the C malloc function which allocates the requested memory and returns 
 
 #USAGE
 First, you have to get the owner rights of the exec.sh file. In order to do that, tap the following command your Command Line Interface:
+```bash
 chmod exec.sh 755
+```
 
 Once the first step is done, we are now able to execute the program with a command like: 
 
